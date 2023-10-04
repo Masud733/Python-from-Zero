@@ -1,0 +1,32 @@
+In the world of code, where logic is king,
+Python emerges, a language to bring.
+With whitespace as guide and elegance so clear,
+A powerful tool for all engineers near.
+
+Indentation matters, it's more than just style,
+In Python's embrace, it's essential, worthwhile.
+No curly braces clutter, no semicolons to fret,
+Readability shines, reducing code's debt.
+
+From lists to dictionaries, and tuples abound,
+Python's collections are truly renowned.
+For loops and while loops, and functions to craft,
+The tools at your disposal, you'll never feel daft.
+
+Libraries galore, for tasks big and small,
+NumPy, pandas, and matplotlib's call.
+Machine learning with TensorFlow and more,
+Python's the choice for those keeping score.
+
+Web apps with Flask, or Django's grand scope,
+Building APIs, there's no need to mope.
+Data analysis, visualization too,
+Python's got answers to problems not few.
+
+In Python we code, with joy and with glee,
+Its simplicity, power, and versatility.
+So, raise up your editor, let's write some code,
+In Python we trust, on this fact, we're sold.
+
+
+The python is burning my mind Im awake for that!
